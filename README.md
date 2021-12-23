@@ -10,7 +10,7 @@ Here's how you might organize it for your 100 Days of Python Journey.  Just remo
 * [Day 2](day-02/README.md) -- I slay a dragon.  Turns out that's easy in Python.
 * [Day 3](day-03/README.md) -- I cure cancer (before lunch, of course).
 
-## More information
+## More Information
 
 Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-python/) to achieve instant enlightenment.
 
@@ -18,5 +18,5 @@ Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-py
 
 We post new project ideas and links to some sample solutions periodically to [CodeSolid's 100 Days of Python](https://codesolid.com/category/100-days-of-python/).
 
-### Contributions?
-Want to report an issue or submit project ideas?  Please feel free to [open an issue here](https://github.com/CodeSolid/100-days-of-python/issues).
+### Contributions Welcome
+Want to report an issue or submit project ideas?  Or, do you just want us to put up a Participant's page and put your name on it because you're one of the cool kids?  Please feel free to [open an issue here](https://github.com/CodeSolid/100-days-of-python/issues).
