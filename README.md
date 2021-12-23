@@ -6,7 +6,7 @@ Here's how you might organize it for your 100 Days of Python Journey.  Just remo
 
 ## My 100 Days of Python
 
-* [Day 1](day-01/README.md) -- I Code a for loop in Python
+* [Day 1](day-01/README.md) -- I code a for loop in Python
 * [Day 2](day-02/README.md) -- I slay a dragon.  Turns out that's easy in Python.
 * [Day 3](day-03/README.md) -- I cure cancer (before lunch, of course).
 
