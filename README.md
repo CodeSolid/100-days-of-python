@@ -1,10 +1,5 @@
 # 100 Days of Python
 
-## Fork this repo.  It's Open Source.
-
-Here's how you might organize it for your 100 Days of Python Journey.  Just remove this section and start editing the sections below this.
-
-## My 100 Days of Python
 
 * [Day 1](day-01/README.md) -- Python Object Puzzle
 What sorts of things in Python are not an object?  Find out in the Youtube video.
