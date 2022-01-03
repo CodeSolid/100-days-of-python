@@ -1,8 +1,8 @@
 # 100 Days of Python
 
-## Fork this repo.  It's Open Source.
+## Use this repo as a template
 
-Here's how you might organize it for your 100 Days of Python Journey.  Just remove this section and start editing the sections below this.
+We invite you to [use this repository as a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for your 100 Days of Python Journey.  Just remove this section and start editing the sections below this.
 
 ## My 100 Days of Python
 
